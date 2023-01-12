@@ -1,6 +1,8 @@
 # CheckVatNumberSpain
 Check a Spanish VAT number using the VIES service
 
+https://blog.dotnetframework.org/2023/01/12/checking-a-spanish-vat-number-using-the-vies-webservice-in-c/
+
 Sample Request
 ```
 <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
